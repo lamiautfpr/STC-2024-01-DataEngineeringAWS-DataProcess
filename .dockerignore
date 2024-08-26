@@ -1,0 +1,16 @@
+# Ignorar diretórios
+.idea
+*.idea
+.idea/
+__pycache__
+.ipynb_checkpoints
+*_env
+
+# Ignorar arquivos
+*.parquet
+*.ipynb
+*.json
+*.log
+*.csv
+.env
+*.env

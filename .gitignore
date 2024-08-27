@@ -7,6 +7,9 @@ __pycache__
 .ipynb_checkpoints
 *_env
 
+.venv
+*.venv
+
 # Ignorar arquivos
 *.parquet
 *.ipynb
